@@ -1,0 +1,2 @@
+# kamino
+lets try django
